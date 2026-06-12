@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 4. Create .env file
 
-BINANCE_API_KEY=your_key
-BINANCE_API_SECRET=your_secret
+BINANCE_API_KEY= api_key
+BINANCE_API_SECRET= secret_key
 
 ## Run
 
